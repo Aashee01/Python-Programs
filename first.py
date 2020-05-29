@@ -1,0 +1,1 @@
+print("tera  baap aaya")
